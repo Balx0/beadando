@@ -1,0 +1,94 @@
+body{
+    background-color: #4ee151;
+    height: auto;
+
+}
+img{
+  width: 70%;
+    height: auto;
+}
+#data1{
+
+    float: left;
+    width: 25%;
+    margin-top: 5px;
+    margin-right: 200px;
+}
+#data2{
+    width: 20%;
+}
+
+
+#indata {
+    width: 40%;
+   border: 2px solid black;
+
+}
+#par1{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+#par2{
+     margin-left: 40px;
+     padding-top: 40px;
+ }
+#tit{
+    font-size: 100px;
+}
+
+#maintable{
+    width: 100%;
+}
+#Banner{
+    height: 20%;
+    background: #e11eb6;
+    font-size: 45px;
+    color: darkgreen;
+    margin-top: -7px;
+}
+
+#menu{
+    padding-top: 3px;
+    float: right;
+    font-size: 17px;
+
+}
+
+#menu .menuButton{
+    width: 140px;
+    padding-top: 5px;
+    text-align: center;
+    border: 2px solid #000000;
+    border-radius: 1000px;
+    height: 45px;
+}
+
+#homeB{
+    background: #ff0317;
+}
+#addManB{
+    background: #ff9500;
+}
+#ManB{
+    background: #fffc00;
+}
+#addCarB{
+    background: #1fff0c;
+}
+#CarsB{
+    background: #1b08ff;
+}
+
+#menu .menuButton:HOVER {
+    background: #ffe12c;
+    color: #e71fff;
+}
+#Writeouts{
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid #1c16e1;
+
+}
+#Writeouts th{
+    text-align: center;
+}
